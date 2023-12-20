@@ -59,7 +59,7 @@ function App() {
           }}
           transition={{
             duration: 1,
-            ease: 'easeIn'
+            ease: "easeIn",
           }}
         >
           <img src={image} width={400} height={600} />
